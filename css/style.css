@@ -1,0 +1,13 @@
+p{
+    font-size: 35px;
+}
+
+h1{
+    font-size: 70px;
+}
+img{
+    max-width: 500px;
+    max-height: 500px;
+    width: auto;
+    height: auto;
+}
